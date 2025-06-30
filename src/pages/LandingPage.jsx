@@ -26,8 +26,17 @@ const LandingPage = () => (
             </div>
         </main>
          <footer className="text-gray-400 text-center p-4">
-            <p>&copy; {new Date().getFullYear()} MoodleBI Platform.</p>
-        </footer>
+            <p> &copy; {new Date().getFullYear()} MoodleBI Platform powered by{" "}
+                <a
+      href="https://zeron.com.ar"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-400 hover:underline"
+    >
+      ZeRoN
+    </a>.
+  </p>
+</footer>
     </div>
 );
 export default LandingPage;
