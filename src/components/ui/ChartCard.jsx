@@ -1,4 +1,5 @@
-// --- Archivo: src/components/ui/ChartCard.jsx (NUEVO) ---
+// --- Archivo: src/components/ui/ChartCard.jsx ---
+
 import React from 'react';
 import { ResponsiveContainer } from 'recharts';
 

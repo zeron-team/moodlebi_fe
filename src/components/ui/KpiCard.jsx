@@ -1,4 +1,5 @@
-// --- Archivo: src/components/ui/KpiCard.jsx (NUEVO) ---
+// --- Archivo: src/components/ui/KpiCard.jsx ---
+
 import React from 'react';
 import { BarChart2 } from 'lucide-react';
 
